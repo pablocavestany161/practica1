@@ -1,0 +1,3 @@
+mates 2
+lengua 1
+soci 4
