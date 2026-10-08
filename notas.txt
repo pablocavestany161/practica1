@@ -1,4 +1,5 @@
-v1 v2 v3
+
+v1 v2
 A mates 3
 B lengua 1
 soci 4
